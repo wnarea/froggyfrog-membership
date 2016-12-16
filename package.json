@@ -1,5 +1,6 @@
 {
   "name": "froggyfrog-membership",
+  "version": "0.0.1",
   "author": "Wilson Narea",
   "version": "1.0.0",
   "description": "A Membership systme patterned after Devise",
